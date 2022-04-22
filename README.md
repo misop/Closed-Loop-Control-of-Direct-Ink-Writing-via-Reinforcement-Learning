@@ -1,1 +1,1 @@
-# Closed-Loop-Control-of-Direct-Ink-Writing-via-Reinforcement-Learning
+# Closed-Loop Control of Direct Ink Writing via Reinforcement Learning
