@@ -136,7 +136,7 @@ pip install -e .
 
 Initializes 5 Flex environments and starts the deposition in place 3 times. The tests confirms that the library was build succesfully and that the simulation works. Upon execution this image should be created:
 
-![Image of succesful demo run](https://github.com/misop/Closed-Loop-Control-of-Direct-Ink-Writing-via-Reinforcement-Learning/blob/imgs/pyflex_test.png?raw=true)
+![Image of succesful demo run](https://github.com/misop/Closed-Loop-Control-of-Direct-Ink-Writing-via-Reinforcement-Learning/blob/main/imgs/pyflex_test.png?raw=true)
 
 
 ```
@@ -145,7 +145,7 @@ Initializes 5 Flex environments and starts the deposition in place 3 times. The 
 
 Starts a printing process controlled through python. The printer follows a lucky leaf print. After printing the following image should be created:
 
-![Image of succesful demo run](https://github.com/misop/Closed-Loop-Control-of-Direct-Ink-Writing-via-Reinforcement-Learning/blob/imgs/printer_test.png?raw=true)
+![Image of succesful demo run](https://github.com/misop/Closed-Loop-Control-of-Direct-Ink-Writing-via-Reinforcement-Learning/blob/main/imgs/printer_test.png?raw=true)
 
 ## Start a Learning Process
 
