@@ -204,7 +204,7 @@ Performs one simulation step by translating the printing nozzle to location `[x,
 
 ## Printer Environment API
 
-The printer environment implements the interface of OpenAI gym and is full compatible.
+The printer environment implements the interface of OpenAI gym and is fully compatible.
 
 
 
